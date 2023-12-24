@@ -1,8 +1,7 @@
  <h1>Hi, I’m Kana👋</h1>
  <h2>👀見に来ていただきありがとうございます👀</h2>
 
-
-## 使用技術一覧
+ ## 使用技術一覧
 
 <!-- シールド一覧 -->
 <!-- 該当するプロジェクトの中から任意のものを選ぶ-->
@@ -28,6 +27,17 @@
   <!-- その他一覧 -->
  <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic">
 </p>
+
+[![Twitter:kaasan_b](https://img.shields.io/twitter/follow/kaasan_b?style=social)](https://twitter.com/kaasan_b)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kana1166&theme=vue)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kana1166&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kana1166&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <p>２０２３年８月よりEveryone Engineerにて学習スタート</p>
 <p>２０２３年１２月ベーシック、フロントエンド、バックエンド最終課題まで終了</p>
