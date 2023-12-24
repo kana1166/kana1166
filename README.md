@@ -29,6 +29,10 @@
  <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic">
 </p>
 
+<p>２０２３年８月よりEveryone Engineerにて学習スタート</p>
+<p>２０２３年１２月ベーシック、フロントエンド、バックエンド最終課題まで終了</p>
+<p>４milで活動スタート</p>
+<p>短時間勤務可能な会社の求職活動中です☺︎</p>
 
 
 <!---
