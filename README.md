@@ -28,9 +28,6 @@
  <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic">
 </p>
 
-[![Twitter:kaasan_b](https://img.shields.io/twitter/follow/kaasan_b?style=social)](https://twitter.com/kaasan_b)
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kana1166&theme=vue)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kana1166&show_icons=true)
@@ -46,6 +43,13 @@
 <p>AWS専門のメンターにてAWS構築、設計の勉強中<p>
 <p>2024年6月AWS CLF</p>
 <p>2024年7月AWS SAA</p>
+<p>2024年８月AWS DVA</p>
+
+↓フォローしていただけると嬉しいです
+
+[![Twitter:kaasan_b](https://img.shields.io/twitter/follow/kaasan_b?style=social)](https://twitter.com/kaasan_b)
+
+[![Qiita:](https://img.shields.io/badge/Qiita-Follow-green?logo=qiita&style=social)](https://qiita.com/kana_1166)
 
 
 
