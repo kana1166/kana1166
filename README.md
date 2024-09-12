@@ -45,11 +45,15 @@
 <p>2024年7月AWS SAA</p>
 <p>2024年８月AWS DVA</p>
 
+[![職務経歴書]](https://github.com/kana1166/kana-oka)
+
 ↓フォローしていただけると嬉しいです
 
 [![Twitter:kaasan_b](https://img.shields.io/twitter/follow/kaasan_b?style=social)](https://twitter.com/kaasan_b)
 
 [![Qiita:](https://img.shields.io/badge/Qiita-Follow-green?logo=qiita&style=social)](https://qiita.com/kana_1166)
+
+
 
 
 
