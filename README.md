@@ -45,7 +45,7 @@
 <p>2024年7月AWS SAA</p>
 <p>2024年８月AWS DVA</p>
 
-[![職務経歴書]](https://github.com/kana1166/kana-oka)
+[職務経歴書](https://github.com/kana1166/kana-oka)
 
 ↓フォローしていただけると嬉しいです
 
