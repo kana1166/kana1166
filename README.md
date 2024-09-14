@@ -38,12 +38,13 @@
 
 <p>２０２３年８月よりEveryone Engineerにて学習スタート</p>
 <p>２０２３年１２月ベーシック、フロントエンド、バックエンド最終課題まで終了</p>
-<p>４milで活動スタート</p>
-<p>案件受託中</p>
+<p>案件受託</p>
 <p>AWS専門のメンターにてAWS構築、設計の勉強中<p>
 <p>2024年6月AWS CLF</p>
 <p>2024年7月AWS SAA</p>
 <p>2024年８月AWS DVA</p>
+<p>2024年9月AWS AIF</p>
+
 
 [職務経歴書](https://github.com/kana1166/kana.md)
 
